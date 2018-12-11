@@ -1,0 +1,24 @@
+html, body{
+	margin: 0;
+}
+
+header{
+	background-color: #00004c;
+	padding: 75px 75px 0px 100px;
+	text-align: center;
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px; 
+}
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Saitama</h1>
+		</header>*/
