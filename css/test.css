@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+}
+
+h1{
+	color: yellow;
+	font-size: 15px;
+	text-decoration: underline;
+}
+
+#first{
+	font-size: 100px;
+}
+
+.small{
+	font-size: 35px;
+}
